@@ -1,3 +1,5 @@
+# Miranda Miranda Santiago's Portfolio
+
 I am a computer science major at CSUF who is planning to graduate 2028.
 
 ## Favorite CPSC 120L Labs
