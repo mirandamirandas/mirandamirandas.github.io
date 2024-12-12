@@ -2,6 +2,8 @@
 
 I am a computer science major at CSUF who is planning to graduate 2028.
 
+ My Github Page is https://github.com/mirandamirandas
+
 ## Favorite CPSC 120L Labs
 
 * Lab 4, part 1
@@ -28,3 +30,4 @@ I am a computer science major at CSUF who is planning to graduate 2028.
     knitting. I like knitting, which is why this seems like an exciting idea. Coding this lab was fun for me 
     since I knew I could use those skills to create a pattern to knit someday. 
     
+   
